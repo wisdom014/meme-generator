@@ -37,5 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://wisdom014.github.io/meme-generator.git"
+  "homepage": "https://wisdom014.github.io/meme-generator.git",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
