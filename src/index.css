@@ -74,12 +74,13 @@ body {
 
 .top-text {
   top: 0; /* Position from the top */
-  line-height: 0;
+  line-height: 25px;
+  word-break: keep-all;
 }
 
 .bottom-text {
   bottom: 0; /* Position from the bottom */
-  line-height: 0;
+  line-height: 25px;
 }
 
 .input {
