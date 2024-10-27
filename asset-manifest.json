@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/landing-page/static/css/main.3ab91e47.css",
+    "main.css": "/landing-page/static/css/main.f8794f58.css",
     "main.js": "/landing-page/static/js/main.c050fec2.js",
     "static/media/Fractal.jpg": "/landing-page/static/media/Fractal.5849941c44b3b67bd7cb.jpg",
     "static/media/about.jpg": "/landing-page/static/media/about.b82e10194e25945ebfe6.jpg",
@@ -16,11 +16,11 @@
     "static/media/facebook.svg": "/landing-page/static/media/facebook.4dfa1cb6c76432c43cab7eb8f75593c7.svg",
     "static/media/whatsapp.svg": "/landing-page/static/media/whatsapp.663fff2cf86356b717c76abf11fdbfd4.svg",
     "static/media/twitter.svg": "/landing-page/static/media/twitter.5e8c2c32993ee7701f058c52f2470260.svg",
-    "main.3ab91e47.css.map": "/landing-page/static/css/main.3ab91e47.css.map",
+    "main.f8794f58.css.map": "/landing-page/static/css/main.f8794f58.css.map",
     "main.c050fec2.js.map": "/landing-page/static/js/main.c050fec2.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ab91e47.css",
+    "static/css/main.f8794f58.css",
     "static/js/main.c050fec2.js"
   ]
 }
